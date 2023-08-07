@@ -1,7 +1,7 @@
 # EFI-VENTURA-DUAL-XEON-E5-2680V4-RX570-ZXDU99D4-V13.1
 
 
-# Ventura-Hackintosh-Haswell-EFI
+# Ventura-Hackintosh-DUAL-X99-EFI
 
 # 2x (DUAL) Intel Xeon E5 2680 v4 - Ventura Hackintosh EFI (Opencore 0.9.3)
 ## Configuration
