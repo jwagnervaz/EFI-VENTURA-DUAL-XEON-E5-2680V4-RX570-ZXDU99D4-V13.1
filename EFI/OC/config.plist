@@ -4,7 +4,7 @@
 <dict>
 	<key># BASE EFI INTEL X99 BROADWELL(E) - RELEASE Version</key>
 	<string></string>
-	<key># BY: https://luchina.com.br</key>
+	<key># Wagner Vaz jwagnervaz@gmail.com</key>
 	<string></string>
 	<key>ACPI</key>
 	<dict>
