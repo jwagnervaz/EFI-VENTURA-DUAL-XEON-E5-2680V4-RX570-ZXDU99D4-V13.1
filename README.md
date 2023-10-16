@@ -14,7 +14,7 @@
 | Audio          | Realtek audio (ALCID=11)            |
 
 
-PS: Sata FIXED, without this EFI fixes, rhe board does not recognize any Sata device.
+PS: Sata FIXED, without this EFI fixes, the board does not recognize any Sata device.
 
 - This version was prepared using OpenCore 0.9.3 for MacOS Ventura.
 - Fix SMBIOS, was erased for security reasons.
