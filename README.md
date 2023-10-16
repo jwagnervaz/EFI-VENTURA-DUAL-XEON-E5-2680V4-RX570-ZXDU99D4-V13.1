@@ -13,5 +13,8 @@
 | Graphics | RX 580 2048SP (Chinese ELSA) BIOS MOODED TO RX 570  [Here](https://github.com/jwagnervaz/ELSA-RX-580-SP-BIOS-MOD)           |
 | Audio          | Realtek audio (ALCID=11)            |
 
+
+PS: Sata FIXED, without this EFI fixes, rhe board does not recognize any Sata device.
+
 - This version was prepared using OpenCore 0.9.3 for MacOS Ventura.
 - Fix SMBIOS, was erased for security reasons.
